@@ -1,3 +1,3 @@
 # Cryptocurrency-Bitcoin-Prediction
 
-comming soon
+coming soon
