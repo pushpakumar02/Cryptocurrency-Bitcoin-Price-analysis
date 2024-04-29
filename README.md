@@ -38,7 +38,7 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 6. Create a new Pull Request.
 
 ### Contributors
-- [Your Name](https://github.com/yourusername)
+- [Pushpa Kumar](https://github.com/Pushpakumar02)
 
 ## Credits
 This project was created as part of Angela Yu's 100 Days of Code course.
