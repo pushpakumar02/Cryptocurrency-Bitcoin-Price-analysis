@@ -1,5 +1,3 @@
-# Cryptocurrency-Bitcoin-Prediction
-
 # Google Trends Analysis: Bitcoin Search Volume and Price
 
 ## Introduction
